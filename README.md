@@ -4,9 +4,6 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/446306943749849088)](https://discord.com/users/446306943749849088)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tedd&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=tedd&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tedd&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
