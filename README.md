@@ -1,7 +1,7 @@
 <div align="center">
 <div align="center">
 
-  _[About me](https://bio.site/tedddeptrai)_
+  _***[About me](https://bio.site/tedddeptrai)***_
 
 </div>
   
