@@ -9,3 +9,6 @@
   
 </div>
 
+<div align="center">
+<img src="https://osu-sig.vercel.app/card?user=TeddDepTrai&mode=std&lang=en&blur=6&animation=true&hue=255" />
+</div>
