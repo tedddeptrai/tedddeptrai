@@ -2,6 +2,7 @@
 <div align="center">
 
   _***[About me](https://ayo.so/tedddeptrai)***_
+  97.83 65.1 74.63324 42.616657
 
 </div>
   
